@@ -10,19 +10,19 @@ If copying existing project from Git
 4. Run command git clone "link"
 
 If uploading existing project on your computer
-Initialize git git init
-Run command git add .
-Run git commit -m "Message"
-Run git remote add origin Add Link
-Run git push -u origin master
+1. Initialize git git init
+2. Run command git add .
+3. Run git commit -m "Message"
+4. Run git remote add origin Add Link
+5. Run git push -u origin master
 
 
 Commands in uploading changes 
-Git status - show all changes in the repository
-Git add -filename - add file to commit
-Git commit -m "Message" - save changes
-Git push - Upload the changes online
-Git pull - pull changes online
+1. Git status - show all changes in the repository
+2. Git add -filename - add file to commit
+3. Git commit -m "Message" - save changes
+4. Git push - Upload the changes online
+5. Git pull - pull changes online
 
 Working with project requirements 
 - pip install -r requirements.txt
