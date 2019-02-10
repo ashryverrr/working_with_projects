@@ -1,8 +1,7 @@
 # working_with_projects
 Simple commands in using git and other programming language
+
 How to Use Github
-
-
 If copying existing project from Git
 1. Create repository online
 2. Copy the link of the repository
@@ -16,7 +15,6 @@ If uploading existing project on your computer
 4. Run git remote add origin Add Link
 5. Run git push -u origin master
 
-
 Commands in uploading changes 
 1. Git status - show all changes in the repository
 2. Git add -filename - add file to commit
@@ -24,6 +22,7 @@ Commands in uploading changes
 4. Git push - Upload the changes online
 5. Git pull - pull changes online
 
-Working with project requirements 
+Python
+Working with project requirements using Pip
 - pip install -r requirements.txt
 - pip freeze > requirements.txt
