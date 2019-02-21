@@ -22,6 +22,11 @@ Commands in uploading changes
 4. Git push - Upload the changes online
 5. Git pull - pull changes online
 
+Updating remote origin repository
+1. Show your current remote origin, git remote show origin
+2. Remove current origin, git remote rm origin
+3. git remote add origin _path_to_new_origin_
+
 Python
 Working with project requirements using Pip
 - pip install -r requirements.txt
